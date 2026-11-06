@@ -13,7 +13,7 @@ Computer Science student at ESPOL, Ecuador.<br>I create desktop apps that ease i
 
 | Proyecto | Descripción | Tecnologías |
 |:---:|:---|:---:|
-| [gestor-simple-de-balance]([ENLACE_REPOSITORIO](https://github.com/Madakase/gestor-simple-de-balance) | Desktop app built for Linux. Designed to track your income, expenses and balance. | `Java` `MySQL` `JavaFX` |
+| [gestor-simple-de-balance](https://github.com/Madakase/gestor-simple-de-balance) | Desktop app built for Linux. Designed to track your income, expenses and balance. | `Java` `MySQL` `JavaFX` |
 | [Huffman_Codification_Algorithm_Demonstration]([ENLACE_REPOSITORIO](https://github.com/Madakase/Huffman_Codification_Algorithm_Demonstration)) | Academic project that simulates the Huffman coding algorithm. | `Python` `Tkinter` |
 | [parque-forestal-guayaquil]([ENLACE_REPOSITORIO](https://github.com/Madakase/parque-forestal-guayaquil)) | Landing page featuring Parque Forestal, a park located in the south of Guayaquil. | `HTML` `CSS` `JavaScript` |
  
