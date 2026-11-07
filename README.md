@@ -1,4 +1,6 @@
-![Banner](./assets/banner1.jpeg)
+<p align="center">
+  <img src="./assets/banner2.jpeg" width="100%" alt="Banner">
+</p>
 
 # 👋 Nice to meet you, I'm Israel Romero
 
