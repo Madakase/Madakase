@@ -1,3 +1,5 @@
+![Banner](./assets/banner1.jpeg)
+
 # 👋 Nice to meet you, I'm Israel Romero
 
 ## 💫 About Me:
