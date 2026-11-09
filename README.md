@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="./assets/banner1.png"
+    src="./assets/banner1.jpeg"
     width="100%"
     height="300"
     style="object-fit: cover; object-position: center;"
