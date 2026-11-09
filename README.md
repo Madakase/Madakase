@@ -41,6 +41,7 @@ Tools used for creating prototypes, designing interfaces, and planning the user 
 | [parque-forestal-guayaquil](https://github.com/Madakase/parque-forestal-guayaquil) | Landing page featuring Parque Forestal, a park located in the south of Guayaquil. | `HTML` `CSS` `JavaScript` |
 
 ## 🛠️ Technologies applied to Academic Projects
+
 | Technology | Application in Projects | Projects Applied |
 |:---|:---|:---|
 | **Git** | Allowed us to track changes made during development, maintain a commit history, and manage different versions of each project. | [Portafolio de identidad digital](https://github.com/Madakase/Madakase), [Explorando la cultura con la web](https://github.com/Madakase/parque-forestal-guayaquil), Dashboard Interactivo |
