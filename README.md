@@ -1,8 +1,8 @@
 <div align="center">
   <img 
-    src="./assets/banner1.jpeg"
+    src="./assets/banner3.jpeg"
     width="100%"
-    height="300"
+    height="350"
     style="object-fit: cover; object-position: center;"
     alt="Banner"
   >
