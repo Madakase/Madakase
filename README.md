@@ -42,7 +42,7 @@ Tools used for creating prototypes, designing interfaces, and planning the user 
 
 ## 🛠️ Technologies applied to Academic Projects
 | Technology | Application in Projects | Projects Applied |
-|---|---|---|
+|:---|:---|:---|
 | **Git** | Allowed us to track changes made during development, maintain a commit history, and manage different versions of each project. | [Portafolio de identidad digital](https://github.com/Madakase/Madakase), [Explorando la cultura con la web](https://github.com/Madakase/parque-forestal-guayaquil), Dashboard Interactivo |
 | **GitHub** | Allowed us to store project repositories, organize their files, and share the source code as evidence of the development process. | [Portafolio de identidad digital](https://github.com/Madakase/Madakase), [Explorando la cultura con la web](https://github.com/Madakase/parque-forestal-guayaquil), Dashboard Interactivo  |
 | **Markdown** | Allowed us to document projects through README.md files, describing their objectives, features, technologies used, and access links. | [Portafolio de identidad digital](https://github.com/Madakase/Madakase), [Explorando la cultura con la web](https://github.com/Madakase/parque-forestal-guayaquil), Dashboard Interactivo  |
