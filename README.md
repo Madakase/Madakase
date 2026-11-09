@@ -1,11 +1,12 @@
-<p align="center">
+<div align="center">
   <img 
-    src="./assets/banner3.jpeg" 
-    width="100%" 
+    src="./assets/banner.png"
+    width="100%"
+    height="250"
+    style="object-fit: cover; object-position: center;"
     alt="Banner"
-    style="border-radius: 15px;"
   >
-</p>
+</div>
 
 # 👋 Nice to meet you, I'm Israel Romero
 
